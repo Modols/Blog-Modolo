@@ -45,3 +45,32 @@ p{
     font-size: 20px;
 }
 
+.testTruc{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#img1{
+    width: 50%;
+}
+
+#img2{
+    width: 50%;
+}
+
+#img3{
+    width: 50%;
+}
+
+#img4{
+    width: 50%;
+}
+
+.aaa{
+    text-decoration: none;
+}
+
+#mail{
+    width: 30px;
+}
